@@ -1,0 +1,3 @@
+# About this task
+The birthday paradox, also known as the birthday problem, is about the surprisingly high probability that two people have the same birthday, even in a relatively small group of people. In a group of 70 people, the probability of two people having the same birthday is 99.9%. But even in a group of just 23 people, there is a 50% chance of having the same birthday. The above program performs several probability experiments to determine percentages for groups of different sizes. Similar experiments with the definition of possible outcomes using
+sets of random trials are called Monte Carlo experiments.
